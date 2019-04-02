@@ -1,1 +1,1 @@
-# in28minutes-full-stack
+# i28minutes-full-stack
